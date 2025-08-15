@@ -38,7 +38,7 @@ If you run into issues or want to connect with other w.ai miners:
 ## Quick Start (5 Minutes Setup)
 
 ### Step 1: Get Your API Key
-1. Go to [w.ai dashboard](https://app.w.ai)
+1. Go to [w.ai dashboard](https://w.ai/r/V3XBMXWW)
 2. Sign up with email
 3. Go to "API Keys" section
 4. Create new key
@@ -195,7 +195,7 @@ iftop -i eth0
 
 ## Earnings Dashboard 📊
 
-Check your progress at [w.ai dashboard](https://app.w.ai):
+Check your progress at [w.ai dashboard](https://w.ai/r/V3XBMXWW):
 - **W Points earned**: Real-time tracking
 - **Node status**: Uptime and performance
 - **Task history**: What your nodes completed
@@ -211,7 +211,7 @@ Check your progress at [w.ai dashboard](https://app.w.ai):
 ## Where to Get Help
 
 - **Official w.ai Documentation**: https://docs.w.ai/w.ai-guide/supported-hardware
-- **w.ai Dashboard**: https://app.w.ai
+- **w.ai Dashboard**: https://w.ai/r/V3XBMXWW
 - **Community Support**: Join our Telegram group!
 
 ---
